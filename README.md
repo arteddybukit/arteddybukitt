@@ -1,9 +1,15 @@
 👋 Hi, I'm Arteddy Rover Bukit!
+
 💻 Computer Science Student | Frontend Developer | Tech Enthusiast
+
 🌟 Passionate about building responsive and aesthetic websites.
+
 🎨 Exploring the synergy of technology and creativity through graphic design.
+
 🌍 Interested in impactful projects that solve real-world problems.
+
 📚 Currently learning advanced web development and deep learning techniques.
+
 📫 Let's connect: [Linkedin](https://www.linkedin.com/in/arteddy-bukit-b68400230/)
 
 
