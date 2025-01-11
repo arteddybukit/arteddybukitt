@@ -1,14 +1,11 @@
-# Halo semua! 
+👋 Hi, I'm Arteddy Rover Bukit!
+💻 Computer Science Student | Frontend Developer | Tech Enthusiast
+🌟 Passionate about building responsive and aesthetic websites.
+🎨 Exploring the synergy of technology and creativity through graphic design.
+🌍 Interested in impactful projects that solve real-world problems.
+📚 Currently learning advanced web development and deep learning techniques.
+📫 Let's connect: [Linkedin](https://www.linkedin.com/in/arteddy-bukit-b68400230/)
 
-Perkenalkan nama saya **Arteddy Bukit**.<br>
-
-Saya seorang **Web Developer** di bagian front end.<br>
-
-Saya bertanggung jawab pada pembuatan tampilan web bagian awal dengan dibekali [sertifikasi dari xxx).<br>
-
-Saya juga memiliki gelar Google Associate web Developer sejak xxx.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arteddy-bukit-b68400230/) ku ya.
 
 <p align="left">
 <a href="https://github.com/arteddybukit">
